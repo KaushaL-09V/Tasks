@@ -1,0 +1,58 @@
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# Model Files (ML Project)
+# =========================
+saved_model/
+*.pkl
+
+# =========================
+# Dataset Files (Optional)
+# Uncomment if dataset should not be uploaded
+# =========================
+# Dataset/calculator_data.csv
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE Files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
